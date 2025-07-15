@@ -13,4 +13,4 @@
 
 ![](03.png)
 
-Поздравте! Я успешный "Hello programming!"
+Поздравьте! Я успешный "Hello programming!"
